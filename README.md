@@ -20,7 +20,7 @@ Here is a detailed tutorial on my Notion
       - ReProvison
   - #### Jailbroken
     - 🔗Repo
-    - 📌Tweak
+    - :package:Tweak
     - 🎨Setup
     - 🤔FAQ
   - #### Future
