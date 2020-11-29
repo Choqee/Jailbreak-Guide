@@ -1,5 +1,4 @@
 # Jailbreak-Guide
-🎨No Jailbreak No iPhone.  Enjoy Jailbreak
 
 Here is a detailed tutorial on my Notion
 
