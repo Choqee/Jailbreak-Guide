@@ -28,3 +28,7 @@ Here is a detailed tutorial on my Notion
     - 🈯Suggestion
     - 📆Changelog
 
+***
+
+## Credits
+  - [reF1nd](https://github.com/reF1nd)
